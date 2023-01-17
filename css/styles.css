@@ -72,8 +72,7 @@ body {
 
 .nav-link:hover, 
 .nav-link:focus {
-    color: var(--ocean-color); 
-    text-decoration: underline  
+    color: var(--ocean-color);  
 }
 
 .address-link:hover,
@@ -85,7 +84,6 @@ body {
 }
 
 .address-item {
-    
 }
 
 .address-link {
@@ -267,9 +265,6 @@ body {
 .portfolio-hero-btn:focus {
     color: var(--white-color);
     background-color: var(--ocean-color);
-}
-
-.projects {
 }
 
 .projects-list {
