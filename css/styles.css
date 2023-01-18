@@ -71,11 +71,15 @@ body {
 
 }
 
-.nav-link:current {
-    color: var
-.nav-link:hover, 
+.nav-link:hover,
 .nav-link:focus {
-    color: var(--ocean-color);  
+    color: var(--ocean-color);
+    text-decoration: underline; 
+    color: var(--ocean-color);
+}
+
+.current {
+    color: var(--ocean-color);
 }
 
 .address-link:hover,
